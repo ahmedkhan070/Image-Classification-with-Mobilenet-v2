@@ -36,7 +36,3 @@ The dataset consists of flower images categorized into five folders correspondin
 * Detailed explanations and comments are included within the Jupyter Notebook.
 * Hyperparameters and configuration details are documented.
 
-**Contact**
-[Your Name]
-[Your Email]
-[Your GitHub Profile]
